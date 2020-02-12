@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lab 3 Milestone 1</string>
+    <string name="dialogButton_text">Open Dialog</string>
+    <string name="menuItem1_title">Item1</string>
+    <string name="menuItem2_title">Item2</string>
+    <string name="menuSubitem1_title">SubItem1</string>
+    <string name="menuSubitem2_title">SubItem2</string>
+    <string name="menuTopItem_title">TopItem</string>
 </resources>
